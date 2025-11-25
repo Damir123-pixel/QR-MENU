@@ -1,0 +1,1 @@
+In this project, we will create a website on which the clinets will be able to quickly and easily open the website via QR and select a menu in the basket, either the clinets can tell the waiter what they want, or they can order immediately and it will be displayed in the admin area.
